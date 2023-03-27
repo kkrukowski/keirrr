@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/kamil-krukowski-1a4378234/">
+    <a href="https://www.linkedin.com/in/kamilkkrukowski/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
